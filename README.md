@@ -14,3 +14,5 @@ Pre-requisites
    2.pip install selenium-utils
    3.pip install openpyxl
    4. pip install allure-pytest
+   
+   How to run test - pytest Test1.py --driver Chrome --alluredir c:/test
