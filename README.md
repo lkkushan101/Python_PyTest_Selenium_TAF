@@ -10,7 +10,7 @@ Pre-requisites
 1. Install PyCharm 
 2. Install Python 3.6
 3. Install following packages 
-   pip install selenium
-   pip install selenium-utils
-   pip install openpyxl
-   pip install allure-pytest
+   1.pip install selenium
+   2.pip install selenium-utils
+   3.pip install openpyxl
+   4. pip install allure-pytest
